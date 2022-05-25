@@ -1,4 +1,4 @@
-# Remote Jenkins Job Trigger
+# Remote Jenkins Job Build Trigger
 Trigger a job on a remote Jenkins instance from a Jenkins job and report the results back using Jenkins API
 
 Shell is not a language I have a lot of experience with, so I'm sure this can be greatly refactored.
